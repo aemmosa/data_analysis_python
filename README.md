@@ -1,4 +1,4 @@
-# data_analysis_python
+# Data Analylsis Methodology Using Python
 IBM_data_analysis_using_python_course
 
 Sequence of work ideally is:
